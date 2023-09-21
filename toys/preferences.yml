@@ -194,7 +194,7 @@ canales:
     logo: https://telegra.ph/file/b5075b2db3e21d0f5cb92.jpg
     tvg_id: M+ Liga de Campeones HD
   canal43b:
-    channel_name: ML Campeones 1080
+    channel_name: ML Campeones 1080P
     group_title: M+ Champions
     logo: https://telegra.ph/file/b5075b2db3e21d0f5cb92.jpg
     tvg_id: M+ Liga de Campeones HD
@@ -237,47 +237,47 @@ canales:
     channel_name: ML Campeones 4 1080
     group_title: M+ Champions
     logo: https://telegra.ph/file/ed5ff4d4af1b41089bf63.jpg
-    tvg_id: M+ Liga de Campeones 4 HD
+    tvg_id: M+ Liga de Campeones 4
   canal50:
     channel_name: ML Campeones 5 1080
     group_title: M+ Champions
     logo: https://telegra.ph/file/f70ec8ceea100f7cc16d3.jpg
-    tvg_id: M+ Liga de Campeones 5 HD
+    tvg_id: M+ Liga de Campeones 5
   canal51:
     channel_name: ML Campeones 6 1080
     group_title: M+ Champions
     logo: https://telegra.ph/file/973fa621597f93bf3ada4.jpg
-    tvg_id: M+ Liga de Campeones 6 HD
+    tvg_id: M+ Liga de Campeones 6
   canal52:
     channel_name: ML Campeones 7 1080
     group_title: M+ Champions
     logo: https://telegra.ph/file/0059fad5e9fb7248810ca.jpg
-    tvg_id: M+ Liga de Campeones 7 HD
+    tvg_id: M+ Liga de Campeones 7
   canal53:
-    channel_name: ML Campeones 8 SD
+    channel_name: ML Campeones 8 1080
     group_title: M+ Champions
     logo: https://telegra.ph/file/e42c3be17719dec0dca80.jpg
-    tvg_id: M+ Liga de Campeones 8 HD
+    tvg_id: M+ Liga de Campeones 8
   canal54:
     channel_name: ML Campeones 9 SD
     group_title: M+ Champions
     logo: https://telegra.ph/file/cc889bcf3a3eabd469beb.jpg
-    tvg_id: M+ Liga de Campeones 9 HD
+    tvg_id: M+ Liga de Campeones 9
   canal55:
     channel_name: ML Campeones 10 SD
     group_title: M+ Champions
     logo: https://telegra.ph/file/87e8ff06e728bac9eabb8.jpg
-    tvg_id: M+ Liga de Campeones 10 HD
+    tvg_id: M+ Liga de Campeones 10
   canal56:
     channel_name: ML Campeones 11 SD
     group_title: M+ Champions
     logo: https://telegra.ph/file/26538ea7e7858cf653f05.jpg
-    tvg_id: M+ Liga de Campeones 11 HD
+    tvg_id: M+ Liga de Campeones 11
   canal57:
     channel_name: ML Campeones 12 SD
     group_title: M+ Champions
     logo: https://telegra.ph/file/e070f448f095ac6d66379.jpg
-    tvg_id: M+ Liga de Campeones 12 HD
+    tvg_id: M+ Liga de Campeones 12
 
   canal60:
     channel_name: DAZN 1 1080
