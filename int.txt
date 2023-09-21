@@ -69,12 +69,12 @@ http://192.168.1.90:8008/ace/getstream?id=a0978a100de9a307c12d395d9b2f4142db6ab5
 http://192.168.1.90:8008/ace/getstream?id=5932623d2fd7ed16b01787251b418e4f59a01cda
 #EXTINF:-1 group-title="M+ Champions" tvg-id="M+ Liga de Campeones 8" tvg-logo="https://telegra.ph/file/e42c3be17719dec0dca80.jpg" ,ML Campeones 8 1080  1a4b
 http://192.168.1.90:8008/ace/getstream?id=1a4b41c02e116ed19a505551a9caa79f54c027f7
-#EXTINF:-1 group-title="M+ Champions" tvg-id="M+ Liga de Campeones 9" tvg-logo="https://telegra.ph/file/cc889bcf3a3eabd469beb.jpg" ,ML Campeones 9 SD  69c9
-http://192.168.1.90:8008/ace/getstream?id=69c95dc47b35dde559a6ef025c1b91c89646a17f
-#EXTINF:-1 group-title="M+ Champions" tvg-id="M+ Liga de Campeones 10" tvg-logo="https://telegra.ph/file/87e8ff06e728bac9eabb8.jpg" ,ML Campeones 10 SD  df67
-http://192.168.1.90:8008/ace/getstream?id=df67afe5c5f5e82a3ae629d126727b006b65e676
-#EXTINF:-1 group-title="M+ Champions" tvg-id="M+ Liga de Campeones 11" tvg-logo="https://telegra.ph/file/26538ea7e7858cf653f05.jpg" ,ML Campeones 11 SD  57e2
-http://192.168.1.90:8008/ace/getstream?id=57e284a3c13100baeff7a88dc50949585c9f1277
+#EXTINF:-1 group-title="M+ Champions" tvg-id="M+ Liga de Campeones 9" tvg-logo="https://telegra.ph/file/cc889bcf3a3eabd469beb.jpg" ,ML Campeones 9 SD  7244
+http://192.168.1.90:8008/ace/getstream?id=7244379f8f6382d40afec871fb8e4219a803840b
+#EXTINF:-1 group-title="M+ Champions" tvg-id="M+ Liga de Campeones 10" tvg-logo="https://telegra.ph/file/87e8ff06e728bac9eabb8.jpg" ,ML Campeones 10 SD  d42e
+http://192.168.1.90:8008/ace/getstream?id=d42e1b592b840ea34394fd3e1b1d3a4d0f399213
+#EXTINF:-1 group-title="M+ Champions" tvg-id="M+ Liga de Campeones 11" tvg-logo="https://telegra.ph/file/26538ea7e7858cf653f05.jpg" ,ML Campeones 11 SD  e737
+http://192.168.1.90:8008/ace/getstream?id=e737c681a92a4328703761c6ed9d8a951655f3e4
 #EXTINF:-1 group-title="M+ Champions" tvg-id="M+ Liga de Campeones 12" tvg-logo="https://telegra.ph/file/e070f448f095ac6d66379.jpg" ,ML Campeones 12 SD  3336
 http://192.168.1.90:8008/ace/getstream?id=33369549c635dabdb78b95c478c21fcc9e4ee854
 #EXTINF:-1 group-title="DAZN" tvg-id="DAZN 1 HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/M1SD" ,DAZN 1 1080  8ca0
@@ -183,6 +183,8 @@ http://192.168.1.90:8008/ace/getstream?id=92a7dcc55392efc6dd5d012c4ff3878891eb6a
 http://192.168.1.90:8008/ace/getstream?id=95769f95c6af45e8ec46526c3be1104d0a0c7b91
 #EXTINF:-1 group-title="Otros deportes" tvg-id="ZiggoSportRacing.nl" tvg-logo="https://telegra.ph/file/d4d9a410917c5c13f9c5a.png" ,Ziggo Sport Racing NL  7780
 http://192.168.1.90:8008/ace/getstream?id=77800bb07c1d69135024ee2379c97472eb12dd45
+#EXTINF:-1 group-title="Otros deportes" tvg-id="nil" tvg-logo="https://telegra.ph/file/d4d9a410917c5c13f9c5a.png" ,ML Campeones 17 SD  6029
+http://192.168.1.90:8008/ace/getstream?id=60296c246e3596f334903fefd48cfaa724a5053b
 #EXTINF:-1 group-title="Otros deportes" tvg-id="Eurosport 1 HD" tvg-logo="https://i.ibb.co/DKTwL0t/Eurosport1-o.jpg" ,Eurosport 1 1080  5e4c
 http://192.168.1.90:8008/ace/getstream?id=5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
 #EXTINF:-1 group-title="Otros deportes" tvg-id="Eurosport 2" tvg-logo="https://i.ibb.co/4dFxnrC/Eurosport2-o.jpg" ,Eurosport 2 1080  c373
