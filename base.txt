@@ -69,8 +69,8 @@ acestream://5c21c181156f200d5e628ef2c62cd06bf5f97eb7
 acestream://a0978a100de9a307c12d395d9b2f4142db6ab52d
 #EXTINF:-1 group-title="M+ Champions" tvg-id="M+ Liga de Campeones 7" tvg-logo="https://telegra.ph/file/0059fad5e9fb7248810ca.jpg" ,ML Campeones 7 1080  5932
 acestream://5932623d2fd7ed16b01787251b418e4f59a01cda
-#EXTINF:-1 group-title="M+ Champions" tvg-id="M+ Liga de Campeones 8" tvg-logo="https://telegra.ph/file/e42c3be17719dec0dca80.jpg" ,ML Campeones 8 1080  1a4b
-acestream://1a4b41c02e116ed19a505551a9caa79f54c027f7
+#EXTINF:-1 group-title="M+ Champions" tvg-id="M+ Liga de Campeones 8" tvg-logo="https://telegra.ph/file/e42c3be17719dec0dca80.jpg" ,ML Campeones 8 1080  6c44
+acestream://6c445141445b06d7b4328d80e2dd936bd0ca52ca
 #EXTINF:-1 group-title="M+ Champions" tvg-id="M+ Liga de Campeones 9" tvg-logo="https://telegra.ph/file/cc889bcf3a3eabd469beb.jpg" ,ML Campeones 9 SD  7244
 acestream://7244379f8f6382d40afec871fb8e4219a803840b
 #EXTINF:-1 group-title="M+ Champions" tvg-id="M+ Liga de Campeones 10" tvg-logo="https://telegra.ph/file/87e8ff06e728bac9eabb8.jpg" ,ML Campeones 10 SD  d42e
