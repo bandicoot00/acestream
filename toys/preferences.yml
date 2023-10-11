@@ -78,6 +78,11 @@ canales:
     group_title: DAZN F1
     logo: https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/012018/untitled-1_20.png?An9Fa1zRO4z6Dj__EVR4da6YOWsvtEw2&itok=6PiLMTa5
     tvg_id: DAZN F1 HD
+  canal66c:
+    channel_name: DAZN F1 UHD ep
+    group_title: DAZN F1
+    logo: https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/012018/untitled-1_20.png?An9Fa1zRO4z6Dj__EVR4da6YOWsvtEw2&itok=6PiLMTa5
+    tvg_id: DAZN F1 HD
   canal66:
     channel_name: DAZN F1 1080
     group_title: DAZN F1
@@ -103,6 +108,11 @@ canales:
     tvg_id: M+ LaLiga TV HD
   canal3c:
     channel_name: M+ LaLiga UHD
+    group_title: LaLiga
+    logo: https://telegra.ph/file/ede750e0a9de6e726a3f7.jpg
+    tvg_id: M+ LaLiga TV HD
+  canal3d:
+    channel_name: M+ LaLiga UHD ep
     group_title: LaLiga
     logo: https://telegra.ph/file/ede750e0a9de6e726a3f7.jpg
     tvg_id: M+ LaLiga TV HD
