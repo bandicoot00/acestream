@@ -21,6 +21,9 @@ nombres:
   key2:
     name: "Dazn liga f"
     replace: "DAZN Liga F"
+  key18:
+    name: "DAZN F1 Multicamara (Fórmula 1)"
+    replace: "DAZN F1 Multicámara"
   key1:
     name: " (Fórmula 1)"
     replace: ""
@@ -66,6 +69,7 @@ nombres:
   key17:
     name: "M."
     replace: "M+"
+  
 
 
 
@@ -90,6 +94,11 @@ canales:
     tvg_id: DAZN F1 HD
   canal68:
     channel_name: DAZN F1 720
+    group_title: DAZN F1
+    logo: https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/012018/untitled-1_20.png?An9Fa1zRO4z6Dj__EVR4da6YOWsvtEw2&itok=6PiLMTa5
+    tvg_id: DAZN F1 HD
+  canal68a:
+    channel_name: DAZN F1 Multicámara
     group_title: DAZN F1
     logo: https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/012018/untitled-1_20.png?An9Fa1zRO4z6Dj__EVR4da6YOWsvtEw2&itok=6PiLMTa5
     tvg_id: DAZN F1 HD
